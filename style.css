@@ -1,0 +1,195 @@
+    @font-face{
+        font-family:KosugiMaru-Regular;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/KosugiMaru-Regular.ttf);
+        font-weight:400;
+        font-style:normal;
+        }
+
+    @font-face{
+        font-family:Kosugi-Regular;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/Kosugi-Regular.ttf);
+        font-weight:400;
+        font-style:normal;
+        }
+
+    @font-face{
+        font-family:SawarabiMincho;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/SawarabiMincho-Regular.ttf);
+        font-weight:400;
+        font-style:normal;
+        }
+
+    @font-face{
+        font-family:MPLUS1p-Regular;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/MPLUS1p-Regular.ttf) format("truetype");
+        font-weight:400;
+        font-style:normal;
+        }
+
+    @font-face{
+        font-family:MPLUS1p-Thin;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/MPLUS1p-Thin.ttf) format("truetype");
+        font-weight:400;
+        font-style:normal;
+        }
+
+    @font-face{
+        font-family:MPLUS1p-Light;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/MPLUS1p-Light.ttf) format("truetype");
+        font-weight:400;
+        font-style:normal;
+        }
+                        
+    @font-face{
+        font-family:MPLUS1p-Medium;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/MPLUS1p-Medium.ttf) format("truetype");
+        font-weight:400;
+        font-style:normal;
+        
+        }
+    @font-face{
+        font-family:MPLUSRounded1c-Regular;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/MPLUSRounded1c-Regular.ttf) format("truetype");
+        font-weight:400;
+        font-style:normal;
+        }
+                                
+    @font-face{
+        font-family:MPLUSRounded1c-Thin;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/MPLUSRounded1c-Thin.ttf) format("truetype");
+        font-weight:400;
+        font-style:normal;
+        }
+
+    @font-face{
+        font-family:MPLUSRounded1c-Light;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/MPLUSRounded1c-Light.ttf) format("truetype");
+        font-weight:400;
+        font-style:normal;
+        }
+
+    @font-face{
+        font-family:MPLUSRounded1c-Medium;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/MPLUSRounded1c-Medium.ttf) format("truetype");
+        font-weight:400;
+        font-style:normal;
+        }
+
+    @font-face{
+        font-family:NotoSansJP-Regular;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/NotoSansJP-Regular.otf) format("opentype");
+        font-weight:400;
+        font-style:normal;
+        }
+
+    @font-face{
+        font-family:NotoSansJP-Thin;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/NotoSansJP-Thin.otf) format("opentype");
+        font-weight:400;
+        font-style:normal;
+        }
+
+     @font-face{
+        font-family:NotoSansJP-Light;
+        src:url(https://txdsb.top/d/images/1685364754/fonts/NotoSansJP-Light.otf) format("opentype");
+                                                        font-weight:400;
+                                                        font-style:normal;
+                                                        }
+                                                        @font-face{
+                                                            font-family:NotoSansJP-Medium;
+                                                            src:url(https://txdsb.top/d/images/1685364754/fonts/NotoSansJP-Medium.otf) format("opentype");
+                                                            font-weight:400;
+                                                            font-style:normal;
+                                                            }
+                                                            @font-face{
+                                                                font-family:NotoSerifJP-Regular;
+                                                                src:url(https://txdsb.top/d/images/1685364754/fonts/NotoSerifJP-Regular.otf) format("opentype");
+                                                                font-weight:400;
+                                                                font-style:normal;
+                                                                }
+                                                                @font-face{
+                                                                    font-family:NotoSerifJP-Thin;
+                                                                    src:url(https://txdsb.top/d/images/1685364754/fonts/NotoSerifJP-Thin.otf) format("opentype");
+                                                                    font-weight:400;
+                                                                    font-style:normal;
+                                                                    }
+                                                                    @font-face{
+                                                                        font-family:NotoSerifJP-Light;
+                                                                        src:url(https://txdsb.top/d/images/1685364754/fonts/NotoSerifJP-Light.otf) format("opentype");
+                                                                        font-weight:400;
+                                                                        font-style:normal;
+                                                                    }
+                                                                    @font-face{
+                                                                        font-family:NotoSerifJP-Medium;
+                                                                        src:url(https://txdsb.top/d/images/1685364754/fonts/NotoSerifJP-Medium.otf) format("opentype");
+                                                                        font-weight:400;
+                                                                        font-style:normal;
+                                                                    }
+                                                                    html{
+                                                                        height:100%;width:100%
+                                                                    }
+                                                                    .hope-ui-dark {
+                                                                            // background-image: url(https://txdsb.top//images/1685364754/media/day01.jpg) !important;
+                                                                            background-repeat:no-repeat;
+                                                                            background-size:cover;
+                                                                            background-attachment:fixed;
+                                                                            background-position-x:center;
+                                                                            }
+                                                                            
+                                                                    @media(max-width: 768px) {
+                                                                        .hope-ui-light{
+                                                                            background-image: url(https://fastly.jsdelivr.net/gh/feipangjun/jsdelivr_speedup/img/640.jpg) !important;
+                                                                            background-repeat:no-repeat ;
+                                                                            background-repeat:no-repeat;
+                                                                            background-size:cover;
+                                                                            background-attachment:fixed;
+                                                                            background-position-x:center;     
+                                                                        }
+                                                                         .hope-ui-dark{
+                                                                            background-image: url(https://fastly.jsdelivr.net/gh/feipangjun/jsdelivr_speedup/img/8f0e61580826966d3f116ffb61449dac98c7e58607f6b735c64589f1f2378240.png) !important;
+                                                                            background-repeat:no-repeat ;
+                                                                            background-repeat:no-repeat;
+                                                                            background-size:cover;
+                                                                            background-attachment:fixed;
+                                                                            background-position-x:center;
+                                                                         }
+                                                                         #time{
+                                                                            position:fixed;
+                                                                            right:10px;
+                                                                            font-family:KosugiMaru-Regular;
+                                                                            font-size:0em;
+                                                                            display:flex;
+                                                                            flex-direction:column;
+                                                                            align-items:center;
+                                                                            justify-content:center;
+                                                                        }
+                                                                    }
+                                                                    @media screen and (min-width: 960px){
+                                                                        #time{
+                                                                            position:fixed;
+                                                                            right:10px;
+                                                                            font-family:KosugiMaru-Regular;
+                                                                            font-size:1.5em;
+                                                                            display:flex;
+                                                                            flex-direction:column;
+                                                                            align-items:center;
+                                                                            justify-content:center;
+                                                                        }
+                                                                        #clock{
+                                                                            text-align:right;
+                                                                            color:#fff;
+                                                                            font-size:2em;
+                                                                            line-height:1em;
+                                                                            cursor:default;
+                                                                            user-select:none;
+                                                                        }
+                                                                        #date{
+                                                                            text-align:right;
+                                                                            color:#fff;
+                                                                            font-size:.5em;
+                                                                            line-height:1em;
+                                                                            cursor:default;
+                                                                            user-select:none;
+                                                                            }
+                                                                            
+                                                                    }
